@@ -17,6 +17,7 @@ System.out.println(h.basic());
 @BeforeMethod
 public void step1() {
 	System.out.println("one");
+	System.out.println("two");
 }
 
 }
